@@ -17,7 +17,7 @@ The program can handle the following activities:
 
 ## Getting Started
 
-### Dependencies, Installing
+### Prerequisite
 
 * Pyton
 * IDLE for phyton. Recomended Microsoft Visual Studio
